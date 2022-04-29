@@ -343,7 +343,7 @@ section {
 }
 
 .bg {
-    background-image: url("img/amazing/bg.jpg");
+    background-image: url(img/amazing/bg.jpg);
     width: 100%;
     background-repeat: no-repeat;
     background-size: 100%;

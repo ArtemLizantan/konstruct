@@ -607,6 +607,7 @@ form {
 
 input[type=email]{
     width: 180px;
+    border-radius: 0px;
 }
 
 .btn-form {
